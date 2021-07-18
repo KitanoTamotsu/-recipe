@@ -1,5 +1,6 @@
 ## 　　Lesson24.　AlfredのJSON出力を10以上設定する／濁音・半濁音検索に対応する  
 #### 開発メモ
+[サンプル動画](https://user-images.githubusercontent.com/40127279/126054702-f0eb69c7-1ded-4978-ba3a-36a4bbd56076.mp4)
 ### 1.AlfredのJson出力フォーマットを10件以上で出力する
 　特段のテクニックは不要です。
 <br>  Jsonフォーマットのitemsに10件以上、記述するだけです。
