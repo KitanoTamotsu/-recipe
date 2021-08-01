@@ -1,6 +1,9 @@
 ## 　　Lesson24.　Alfredの出力を10件以上に設定する／濁音・半濁音検索に対応する  
 #### 開発メモ
 [サンプル動画](https://user-images.githubusercontent.com/40127279/126054702-f0eb69c7-1ded-4978-ba3a-36a4bbd56076.mp4)
+ワークフロー
+<br><img width="600" src="https://user-images.githubusercontent.com/40127279/127757111-9c75bb4a-e944-4dfc-b251-c661a00f7122.png">
+
 ### 1.AlfredのJson出力フォーマットを10件以上で出力する
 　特段のテクニックは不要です
 <br>　Jsonフォーマットのitemsに10件以上、記述するだけです
@@ -48,7 +51,9 @@
 <br>　Lesson4で%エンコードをするときに、iconvが使えなかったのでnkfをインストールしたの
 <br>　ですが、使えたのですね。。。まぁいいか
 <br>
-#### 背景
+<br>　<img width="600" src="https://user-images.githubusercontent.com/40127279/127757130-5223039d-efdf-4bff-9264-49f6e6d1f59e.png">
+
+#### 背景　
 　Lesson14のRSSマニアのロジックの誤りで、AlfredのJSON出力フォーマットが9件以上でも
 <br>　対応していることがわかったので、
 <br>　検索結果が20件程度あるサイトを探して作ってみました
