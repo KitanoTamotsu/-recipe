@@ -1,4 +1,3 @@
-## 　　Lesson24.　Alfredの出力を10件以上に設定する／濁音・半濁音検索に対応する  
 #### 開発メモ
 [サンプル動画](https://user-images.githubusercontent.com/40127279/126054702-f0eb69c7-1ded-4978-ba3a-36a4bbd56076.mp4)
 ワークフロー
